@@ -14,7 +14,7 @@ The library contains one or several copies of the same book. Every copy of a boo
    2. DFD
 4. Provide a ```README.md``` containing the setup guide.
 5. The application should be published in Github via forked repository and for final version of your prototype will create a ```Pull request``` in Github 
-6. You will send the Github link to us thru our email devops@biotechfarms.com on or before **14-10-203** 12:00 PM
+6. You will send the Github link to us thru our email devops@biotechfarms.com on or before **18-07-2024** 12:00 PM
 
 
     ### **Directory structure**
