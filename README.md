@@ -1,15 +1,7 @@
 # **Practical Assessment**
-## **Lou Geh Cardealership Company**
-Lou Geh car dealership sells both new and used cars, and it operates a service facility.
-- A salesperson may sell many cars, but each car is sold by only one salesperson.
-- A customer may buy many cars, but each car is bought by only one customer.
-- A salesperson writes a single invoice for each car he or she sells.
-- A customer gets an invoice for each car he or she buys.
-- A customer may come in just to have his or her car serviced; that is, a customer need not buy a car to be classified as a customer.
--	When a customer takes one or more cars in for repair or service, one service ticket is written for each car.
--	The car dealership maintains a service history for each of the cars serviced. The service records are referenced by the car’s serial number.
-- A car brought in for service can be worked on by many mechanics, and each mechanic may work on many cars.
-- A car that is serviced may or may not need parts (e.g., adjusting a carburetor or cleaning a fuel injector nozzle does not require providing new parts).
+## **Lou Geh Library System**
+
+The library contains one or several copies of the same book. Every copy of a book has a copy number and is located at a specific location in a shelf. A copy is identified by the copy number and the ISBN number of the book. Every book has a unique ISBN, a publication year, a title, an author, and a number of pages. Books are published by publishers. A publisher has a name as well as a location. Within the library system, books are assigned to one or several categories. A category can be a subcategory of exactly one other category. A category has a name and no further properties. Each reader needs to provide his/her family name, his/her first name, his/her city, and his/her date of birth to register at the library. Each reader gets a unique reader number. Readers borrow copies of books. Upon borrowing the return date is stored.
 
 ## **Task**
 1. Create a prototype based on the attached problem
